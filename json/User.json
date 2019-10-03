@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"text1",
+        "career_id":13
+    },
+    {
+        "id":2,
+        "name":"text2",
+        "career_id":12
+    },
+    {
+        "id":3,
+        "name":"text3",
+        "career_id":11
+    },
+    {
+        "id":4,
+        "name":"text4",
+        "career_id":13
+    },
+    {
+        "id":5,
+        "name":"text5",
+        "career_id":15
+    }
+]
